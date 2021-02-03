@@ -10,4 +10,4 @@ Here are the methods and success rates of each method:
 | Adaboost      | Content Cell  |
 | SVM           | Content Cell  |
 | K-NN          | Content Cell  |
-| Content Cell  | Content Cell  |
+| Logistic Regression  | Content Cell  |
