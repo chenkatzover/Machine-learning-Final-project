@@ -4,6 +4,7 @@ In this project we use the "Students Performance in Exams" Dataset -https://www.
 the Dataset created To understand the influence of the parents background, test preparation etc on students performance.
 This data set includes scores from three exams and a variety of personal, social, and economic factors that have interaction effects upon them.
 
+![](Images/scale.jpeg)
 
 
 And we used four methods on the Dataset to answer the question:"Given the average grades and ethnicity - what is the gender of the student?".
