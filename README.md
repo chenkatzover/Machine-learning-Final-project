@@ -20,10 +20,10 @@ Ouestion #1:
 
 | Method        | Success rate |
 | ------------- | ------------- |
-| Adaboost      | Content Cell  |
-| SVM           | Content Cell  |
-| K-NN          | Content Cell  |
-| Logistic Regression  | Content Cell  |
+| Adaboost      | 0.854  |
+| SVM           |  0.874  |
+| K-NN          | 0.826  |
+| Logistic Regression  | 0.844  |
 
 
 Ouestion #2:
