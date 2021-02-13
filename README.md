@@ -9,9 +9,24 @@ This data set includes scores from three exams and a variety of personal, social
 
 ![](Images/metadata.jpeg)
 
-And we used four methods on the Dataset to answer the question:"Given the average grades and ethnicity - what is the gender of the student?".
+We used four methods on the Dataset to answer the following questions:
+1) "Given the average grades and ethnicity - what is the gender of the student?".
+2)
+
 
 Here are the methods and success rates of each method:
+
+Ouestion #1:
+
+| Method        | Success rate |
+| ------------- | ------------- |
+| Adaboost      | Content Cell  |
+| SVM           | Content Cell  |
+| K-NN          | Content Cell  |
+| Logistic Regression  | Content Cell  |
+
+
+Ouestion #2:
 
 | Method        | Success rate |
 | ------------- | ------------- |
