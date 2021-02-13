@@ -7,7 +7,7 @@ This data set includes scores from three exams and a variety of personal, social
 ![](Images/scale.jpeg)
 
 
-![](Images/metadata.jpeg)
+![](Images/data.jpeg)
 
 We used four methods on the Dataset to answer the following questions:
 1) "Given the average grades and ethnicity - what is the gender of the student?".
