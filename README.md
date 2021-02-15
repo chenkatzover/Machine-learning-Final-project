@@ -11,8 +11,7 @@ This data set includes scores from three exams and a variety of personal, social
 
 We used four methods on the Dataset to answer the following questions:
 1) "Given the average grades and ethnicity - what is the gender of the student?".
-2) "Based on all the information, what is the student's ethnicity?".
-3) "Based on grades and sector What is the early education the student received?".
+2)
 
 
 Here are the methods and success rates of each method:
@@ -31,17 +30,17 @@ Ouestion #2:
 
 | Method        | Success rate |
 | ------------- | ------------- |
-| Adaboost      | Content Cell  |
-| SVM           | Content Cell  |
-| K-NN          | Content Cell  |
-| Logistic Regression  | Content Cell  |
+| Adaboost      | 0.697  |
+| SVM           | 0.525  |
+| K-NN          | 0.690  |
+| Logistic Regression  | 0.611  |
 
 
 Ouestion #3:
 
 | Method        | Success rate |
 | ------------- | ------------- |
-| Adaboost      | Content Cell  |
-| SVM           | Content Cell  |
-| K-NN          | Content Cell  |
-| Logistic Regression  | Content Cell  |
+| Adaboost      | 0.559  |
+| SVM           | 0.521  |
+| K-NN          | 0.526  |
+| Logistic Regression  | 0.535  |
