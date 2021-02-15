@@ -13,9 +13,9 @@ We used four methods on the Dataset to answer the following questions:
 
 1) "Given the average grades and ethnicity - what is the gender of the student?".
 
-2)"Based on all the information, what is the student's ethnicity
+2) "Based on all the information, what is the student's ethnicity
 
-3)"Based on grades and sector What is the early education the student received?".
+3) "Based on grades and sector What is the early education the student received?".
 
 
 Here are the methods and success rates of each method:
