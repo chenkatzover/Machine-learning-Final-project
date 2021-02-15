@@ -10,8 +10,11 @@ This data set includes scores from three exams and a variety of personal, social
 ![](Images/data.jpeg)
 
 We used four methods on the Dataset to answer the following questions:
+
 1) "Given the average grades and ethnicity - what is the gender of the student?".
-2)"Based on all the information, what is the student's ethnicity?".
+
+2)"Based on all the information, what is the student's ethnicity
+
 3)"Based on grades and sector What is the early education the student received?".
 
 
