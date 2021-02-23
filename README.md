@@ -43,6 +43,11 @@ Ouestion #2:
 | Logistic Regression  | 0.611  |
 
 
+
+*Here we used duplication because there are five sectors and we wanted to classify according to five criteria and not two - what we did was we took each type of sector and ran it in an algorithm with each of the other four sectors, we summed up the accuracy and by doing so we were able to classify the five sectors.
+
+
+
 Ouestion #3:
 
 | Method        | Success rate |
