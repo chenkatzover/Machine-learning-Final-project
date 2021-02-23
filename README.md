@@ -37,10 +37,10 @@ Ouestion #2:
 
 | Method        | Success rate |
 | ------------- | ------------- |
-| Adaboost      | 0.697  |
-| SVM           | 0.525  |
-| K-NN          | 0.690  |
-| Logistic Regression  | 0.611  |
+| Adaboost      | 0.660  |
+| SVM           | 0.62  |
+| K-NN          | 0.65  |
+| Logistic Regression  | 0.60 |
 
 
 
