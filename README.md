@@ -30,6 +30,9 @@ Ouestion #1:
 | Logistic Regression  | 0.844  |
 
 
+*At first we calculated the average of the three scores and put in one column that we calculated in the algorithm, the accuracy did not turn out well and when we treated all three scores separately the accuracy increased.
+
+
 Ouestion #2:
 
 | Method        | Success rate |
