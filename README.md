@@ -52,7 +52,10 @@ Ouestion #3:
 
 | Method        | Success rate |
 | ------------- | ------------- |
-| Adaboost      | 0.559  |
-| SVM           | 0.521  |
-| K-NN          | 0.526  |
-| Logistic Regression  | 0.535  |
+| Adaboost      | 0.408  |
+| SVM           | 0.37  |
+| K-NN          | 0.37  |
+| Logistic Regression  | 0.32  |
+
+
+*Here we did as in question 2, we classified according to 6 categories that describe the early education the student received.
